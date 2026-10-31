@@ -1,0 +1,19 @@
+{
+  "version": "0.1.0",
+  "build": 1,
+  "published": "2026-10-31",
+  "notes": {
+    "en": "The first build of Finneko for family testing. Log your spending, track your accounts, bills and goals, all kept on your device. From now on the app can tell you when a newer version is out and update itself with one tap, if you turn that on.",
+    "ar": "أول نسخة من Finneko للتجربة مع العائلة. سجّل مصاريفك وتابع حساباتك وفواتيرك وأهدافك، وكل شيء محفوظ على جهازك. من الآن يستطيع التطبيق أن يخبرك بوجود نسخة أحدث ويحدّث نفسه بلمسة واحدة، إذا فعّلت ذلك."
+  },
+  "android": {
+    "url": "https://github.com/CanaanGM/finneko-releases/releases/download/v0.1.0/finneko-0.1.0-android-arm64.apk",
+    "size": 51837349,
+    "sha256": "9541d9320ae60320d71fba7cebd28fdfaefa597b77f3c66fd8ed491701bba9a1"
+  },
+  "windows": {
+    "url": "https://github.com/CanaanGM/finneko-releases/releases/download/v0.1.0/Finneko-0.1.0-full.nupkg",
+    "size": 28697008,
+    "sha256": "85be74e8d4dd71575e0b41c9ce6ec4e504a1f321c56fe82557ef9a1f1822cf43"
+  }
+}
