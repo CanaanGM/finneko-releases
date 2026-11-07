@@ -1,19 +1,19 @@
 {
-  "version": "0.1.0",
-  "build": 1,
-  "published": "2026-10-31",
+  "version": "0.2.0",
+  "build": 2,
+  "published": "2026-11-07",
   "notes": {
-    "en": "The first build of Finneko for family testing. Log your spending, track your accounts, bills and goals, all kept on your device. From now on the app can tell you when a newer version is out and update itself with one tap, if you turn that on.",
-    "ar": "أول نسخة من Finneko للتجربة مع العائلة. سجّل مصاريفك وتابع حساباتك وفواتيرك وأهدافك، وكل شيء محفوظ على جهازك. من الآن يستطيع التطبيق أن يخبرك بوجود نسخة أحدث ويحدّث نفسه بلمسة واحدة، إذا فعّلت ذلك."
+    "en": "A fresher, simpler look. A bottom bar takes you to Home, Transactions, Log, Coming up and More. Logging is one simple screen with your usual entries ready to tap again. Rows show a coloured category badge, totals say which month or pay period they cover, and Pon now sits in the same corner on every page. Please tell us anything that feels confusing or wrong.",
+    "ar": "مظهر أبسط وأوضح. شريط في الأسفل ينقلك إلى الرئيسية والمعاملات والتسجيل والقادم والمزيد. التسجيل صار شاشة واحدة بسيطة، ومعاملاتك المعتادة جاهزة لتسجيلها مرة أخرى بلمسة. كل صف يظهر شارة ملوّنة للفئة، والمجاميع توضح الشهر أو فترة الراتب التي تغطيها، وPon يجلس الآن في الزاوية نفسها في كل صفحة. أخبرونا بأي شيء يبدو مربكًا أو خاطئًا."
   },
   "android": {
-    "url": "https://github.com/CanaanGM/finneko-releases/releases/download/v0.1.0/finneko-0.1.0-android-arm64.apk",
-    "size": 51837349,
-    "sha256": "9541d9320ae60320d71fba7cebd28fdfaefa597b77f3c66fd8ed491701bba9a1"
+    "url": "https://github.com/CanaanGM/finneko-releases/releases/download/v0.2.0/finneko-0.2.0-android-arm64.apk",
+    "size": 52017573,
+    "sha256": "8ae3a99e17b7f2e2f89f5e834d3ccaf597d058aa8bb33cbcb6ce09e4ee94a333"
   },
   "windows": {
-    "url": "https://github.com/CanaanGM/finneko-releases/releases/download/v0.1.0/Finneko-0.1.0-full.nupkg",
-    "size": 28697008,
-    "sha256": "85be74e8d4dd71575e0b41c9ce6ec4e504a1f321c56fe82557ef9a1f1822cf43"
+    "url": "https://github.com/CanaanGM/finneko-releases/releases/download/v0.2.0/Finneko-0.2.0-full.nupkg",
+    "size": 29065632,
+    "sha256": "62fb5ab2b92885705dac4b4d8a33bf999074fcb4a2a1a4140344f3a2c0b21d26"
   }
 }
